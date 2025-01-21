@@ -15,4 +15,4 @@ numbers = [1, 2, 3, 4, 5, 2, 6, 3, 7, 8, 8]
 duplicates = find_duplicates(numbers)
 print("Duplicates:", duplicates)
 print("list:", list(numbers))
-
+ddddddddddddd
